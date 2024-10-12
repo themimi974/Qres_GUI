@@ -1,4 +1,4 @@
-aimport tkinter as tk
+import tkinter as tk
 from tkinter import messagebox
 import customtkinter as ctk
 from screeninfo import get_monitors
