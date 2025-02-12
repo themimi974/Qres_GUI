@@ -1,35 +1,46 @@
-Nom du projet : Qres_GUI
 
-Présentation  
-Qres_GUI est une interface graphique destinée à simplifier l'utilisation de QRes, un utilitaire en ligne de commande permettant de changer la résolution d'affichage sous Windows. L'objectif est de proposer une solution conviviale pour sélectionner et appliquer rapidement une résolution adaptée, sans avoir à utiliser la ligne de commande.
+<div align="center">
+  
+  **Qres_GUI**  
+  A sleek graphical interface for QRes – the command-line utility that changes your Windows screen resolution with ease.
 
-Fonctionnalités  
-• Interface utilisateur simple et intuitive pour changer la résolution d'écran  
-• Liste pré-définie de résolutions supportées  
-• Application immédiate des nouveaux réglages  
-• Possibilité d'annuler ou de restaurer la résolution précédente (selon les fonctionnalités de QRes)  
-• Compatible avec les versions récentes de Windows (7, 8, 10, etc.)
+  [![GitHub Stars](https://img.shields.io/github/stars/themimi974/Qres_GUI.svg)](https://github.com/themimi974/Qres_GUI/stargazers)  
+  [![License](https://img.shields.io/github/license/themimi974/Qres_GUI.svg)](LICENSE)
 
-Installation  
-1. Cloner ou télécharger le repository depuis GitHub.  
-2. Vérifier que le fichier exécutable Qres_GUI (ainsi que QRes.exe, si nécessaire) se trouve dans le même répertoire.  
-   • Si QRes.exe n’est pas inclus, le télécharger depuis le site officiel de QRes et le placer dans le dossier de l’application.  
-3. Lancer l’application Qres_GUI.exe pour démarrer l’interface graphique.
+</div>
 
-Utilisation  
-• Au lancement, l’interface affiche une liste de résolutions disponibles.  
-• Sélectionner la résolution souhaitée dans la liste.  
-• Cliquer sur le bouton « Appliquer » pour changer la résolution de l’écran.  
-• Suivre les instructions à l’écran pour confirmer ou annuler la modification, le cas échéant.
+---
 
-Dépendances et prérequis  
-• Système d’exploitation : Windows  
-• QRes.exe : Utilitaire en ligne de commande pour changer la résolution (à placer dans le même dossier que Qres_GUI.exe ou accessible via le PATH)
+**Overview**  
+Qres_GUI is designed to bring a modern, user-friendly twist to an otherwise command-line only tool. Built to simplify the process of changing screen resolutions on Windows, Qres_GUI lets you select from a curated list of resolutions and apply them instantly—all without opening a console.
 
-Contribuer  
-Les contributions sont les bienvenues !  
-• Pour proposer une amélioration ou corriger un bug, forke le repository, apporte tes modifications et soumets une pull request.  
-• Pour toute suggestion ou question, ouvre une issue sur GitHub.
+**Key Features**  
+- **Intuitive User Interface:** Enjoy a clean and straightforward GUI that makes changing resolutions as simple as a few clicks.
+- **Predefined Resolution List:** Choose from a list of common screen resolutions tailored for various devices.
+- **Instant Application:** Apply your selected resolution immediately without any command-line hassle.
+- **Fallback & Confirmation:** Easily revert to your previous settings if needed, ensuring a smooth transition every time.
+- **Lightweight & Efficient:** Designed for minimal overhead, so you get rapid responses without bogging down your system.
 
-Contact  
-Pour toute question, problème ou suggestion, merci d’ouvrir une issue sur GitHub ou de contacter l’auteur via son profil GitHub.
+**Installation Instructions**  
+1. **Clone or Download the Repository:**  
+   Begin by cloning the repository or downloading the ZIP from GitHub.  
+   `git clone https://github.com/themimi974/Qres_GUI.git`
+2. **Prepare Your Files:**  
+   Ensure that Qres_GUI.exe and QRes.exe (if not included, download it from the official QRes source) reside in the same folder.
+3. **Launch the Application:**  
+   Simply double-click on Qres_GUI.exe to start the interface and begin adjusting your screen resolution.
+
+**How to Use**  
+- Upon launch, the interface presents you with a list of available screen resolutions.
+- Select your desired resolution from the dropdown or list.
+- Click the **Apply** button to immediately change your screen resolution.
+- Follow any on-screen prompts to confirm the change or revert if necessary.
+
+**Contributing**  
+Your contributions are warmly welcomed!  
+- **Fork the Repository:** Make your changes and improvements.
+- **Submit a Pull Request:** Help refine and enhance Qres_GUI by sharing your updates.
+- **Report Issues:** If you encounter bugs or have feature suggestions, please open an issue on GitHub.
+
+**Contact & Support**  
+If you have any questions, feedback, or need assistance, please open an issue on GitHub or reach out via your preferred method on the repository’s page.
