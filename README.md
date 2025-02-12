@@ -5,7 +5,6 @@
   A sleek graphical interface for QRes – the command-line utility that changes your Windows screen resolution with ease.
 
   [![GitHub Stars](https://img.shields.io/github/stars/themimi974/Qres_GUI.svg)](https://github.com/themimi974/Qres_GUI/stargazers)  
-  [![License](https://img.shields.io/github/license/themimi974/Qres_GUI.svg)](LICENSE)
 
 </div>
 
