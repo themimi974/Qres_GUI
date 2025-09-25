@@ -25,9 +25,9 @@ Qres_GUI is designed to bring a modern, user-friendly twist to an otherwise comm
    Begin by cloning the repository or downloading the ZIP from GitHub.  
    `git clone https://github.com/themimi974/Qres_GUI.git`
 2. **Prepare Your Files:**  
-   Ensure that Qres_GUI.exe and QRes.exe (if not included, download it from the official QRes source) reside in the same folder.
+   Ensure that QRes.exe reside in the same folder.
 3. **Launch the Application:**  
-   Simply double-click on Qres_GUI.exe to start the interface and begin adjusting your screen resolution.
+   Simply double-click on shortcut.py to hate the taskbar shortcut.
 
 **How to Use**  
 - Upon launch, the interface presents you with a list of available screen resolutions.
